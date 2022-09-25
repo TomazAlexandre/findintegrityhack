@@ -1,5 +1,6 @@
 from flask import Flask, Blueprint
-from flask_restplus import Api
+from flask_restplus impor
+t Api
 from werkzeug.contrib.fixers import ProxyFix
 
 app = Flask(__name__)
